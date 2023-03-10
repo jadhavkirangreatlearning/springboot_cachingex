@@ -74,7 +74,7 @@ public class EmployeeController {
 
     @GetMapping("/welcome")
     public ResponseEntity<String> sayWelcome(){
-        return ResponseEntity.ok("WELCOME TO FINTECH CSI");
+        return ResponseEntity.ok("WELCOME TO FULL STACK JAVA DEVELOPER PUNE");
     }
 
 }
